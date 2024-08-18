@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/Hasaan/Desktop/Siege/Siege 1.0/Siege/Content/MainMenu/Background.png</File>
+    <File>C:/Users/Hasaan/Desktop/Siege/Siege 1.0/Siege/Content/MainMenu/PlayButton.png</File>
+    <File>C:/Users/Hasaan/Desktop/Siege/Siege 1.0/Siege/Content/Game/Player.png</File>
+    <File>C:/Users/Hasaan/Desktop/Siege/Siege 1.0/Siege/Content/Game/Projectiles.png</File>
+    <File>C:/Users/Hasaan/Desktop/Siege/Siege 1.0/Siege/Content/Game/Tiles.png</File>
+    <File>C:/Users/Hasaan/Desktop/Siege/Siege 1.0/Siege/Content/Game/Towers.png</File>
+    <File>C:/Users/Hasaan/Desktop/Siege/Siege 1.0/Siege/Content/MainMenu/SettingsButton.png</File>
+    <File>C:/Users/Hasaan/Desktop/Siege/Siege 1.0/Siege/Content/Game/Troops.png</File>
+    <File>C:/Users/Hasaan/Desktop/Siege/Siege 1.0/Siege/Content/Game/SelectorButtons.png</File>
+    <File>C:/Users/Hasaan/Desktop/Siege/Siege 1.0/Siege/Content/Game/SelectionBorder.png</File>
+    <File>C:/Users/Hasaan/Desktop/Siege/Siege 1.0/Siege/Content/Font/Font_14_Bold.spritefont</File>
+    <File>C:/Users/Hasaan/Desktop/Siege/Siege 1.0/Siege/Content/Font/Font_14.spritefont</File>
+    <File>C:/Users/Hasaan/Desktop/Siege/Siege 1.0/Siege/Content/Game/Castles.png</File>
+    <File>C:/Users/Hasaan/Desktop/Siege/Siege 1.0/Siege/Content/MainMenu/ExitButton.png</File>
+    <File>C:/Users/Hasaan/Desktop/Siege/Siege 1.0/Siege/Content/Game/CastleHealthBar.png</File>
+    <File>C:/Users/Hasaan/Desktop/Siege/Siege 1.0/Siege/Content/Load/LoadButton.png</File>
+    <File>C:/Users/Hasaan/Desktop/Siege/Siege 1.0/Siege/Content/Load/DeleteButton.png</File>
+    <File>C:/Users/Hasaan/Desktop/Siege/Siege 1.0/Siege/Content/Play/LoadButton.png</File>
+    <File>C:/Users/Hasaan/Desktop/Siege/Siege 1.0/Siege/Content/Pause/ExitButton.png</File>
+    <File>C:/Users/Hasaan/Desktop/Siege/Siege 1.0/Siege/Content/Pause/MainMenuButton.png</File>
+    <File>C:/Users/Hasaan/Desktop/Siege/Siege 1.0/Siege/Content/Pause/SaveButton.png</File>
+    <File>C:/Users/Hasaan/Desktop/Siege/Siege 1.0/Siege/Content/Pause/ResumeButton.png</File>
+  </SourceFiles>
+</SourceFileCollection>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>Z:/Submissions/Computer Science/2016-18/Arshad, Hasaan S013718/COMP3/Siege/Siege/Content/Font/Font_14.spritefont</SourceFile>
+  <SourceTime>2017-03-01T15:05:30+00:00</SourceTime>
+  <DestFile>Z:/Submissions/Computer Science/2016-18/Arshad, Hasaan S013718/COMP3/Siege/Siege/Content/bin/Windows/Font/Font_14.xnb</DestFile>
+  <DestTime>2018-03-06T13:23:13.8555001+00:00</DestTime>
+  <Importer>FontDescriptionImporter</Importer>
+  <ImporterTime>2017-03-01T15:05:36+00:00</ImporterTime>
+  <Processor>FontDescriptionProcessor</Processor>
+  <ProcessorTime>2017-03-01T15:05:36+00:00</ProcessorTime>
+  <Parameters>
+    <Key>PremultiplyAlpha</Key>
+    <Value>True</Value>
+  </Parameters>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Compressed</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

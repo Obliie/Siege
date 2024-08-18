@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>Z:/Submissions/Computer Science/2016-18/Arshad, Hasaan S013718/COMP3/Siege/Siege/Content/MainMenu/Background.png</File>
+    <File>Z:/Submissions/Computer Science/2016-18/Arshad, Hasaan S013718/COMP3/Siege/Siege/Content/MainMenu/PlayButton.png</File>
+    <File>Z:/Submissions/Computer Science/2016-18/Arshad, Hasaan S013718/COMP3/Siege/Siege/Content/Game/Player.png</File>
+    <File>Z:/Submissions/Computer Science/2016-18/Arshad, Hasaan S013718/COMP3/Siege/Siege/Content/Game/Projectiles.png</File>
+    <File>Z:/Submissions/Computer Science/2016-18/Arshad, Hasaan S013718/COMP3/Siege/Siege/Content/Game/Tiles.png</File>
+    <File>Z:/Submissions/Computer Science/2016-18/Arshad, Hasaan S013718/COMP3/Siege/Siege/Content/Game/Towers.png</File>
+    <File>Z:/Submissions/Computer Science/2016-18/Arshad, Hasaan S013718/COMP3/Siege/Siege/Content/MainMenu/SettingsButton.png</File>
+    <File>Z:/Submissions/Computer Science/2016-18/Arshad, Hasaan S013718/COMP3/Siege/Siege/Content/Game/Troops.png</File>
+    <File>Z:/Submissions/Computer Science/2016-18/Arshad, Hasaan S013718/COMP3/Siege/Siege/Content/Game/SelectorButtons.png</File>
+    <File>Z:/Submissions/Computer Science/2016-18/Arshad, Hasaan S013718/COMP3/Siege/Siege/Content/Game/SelectionBorder.png</File>
+    <File>Z:/Submissions/Computer Science/2016-18/Arshad, Hasaan S013718/COMP3/Siege/Siege/Content/Font/Font_14_Bold.spritefont</File>
+    <File>Z:/Submissions/Computer Science/2016-18/Arshad, Hasaan S013718/COMP3/Siege/Siege/Content/Font/Font_14.spritefont</File>
+    <File>Z:/Submissions/Computer Science/2016-18/Arshad, Hasaan S013718/COMP3/Siege/Siege/Content/Game/Castles.png</File>
+    <File>Z:/Submissions/Computer Science/2016-18/Arshad, Hasaan S013718/COMP3/Siege/Siege/Content/MainMenu/ExitButton.png</File>
+    <File>Z:/Submissions/Computer Science/2016-18/Arshad, Hasaan S013718/COMP3/Siege/Siege/Content/Game/CastleHealthBar.png</File>
+  </SourceFiles>
+</SourceFileCollection>
